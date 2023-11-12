@@ -1,0 +1,16 @@
+current directory: /home/abdulwm/Dev/todo-list-ruby/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20231112-16392-mezrue.rb extconf.rb
+creating Makefile
+
+current directory: /home/abdulwm/Dev/todo-list-ruby/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/abdulwm/Dev/todo-list-ruby/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/abdulwm/Dev/todo-list-ruby/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20231112-16392-hcb40x/debug
